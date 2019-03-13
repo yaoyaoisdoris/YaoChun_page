@@ -1,0 +1,90 @@
+HTML{
+background-color: black    
+}
+
+ 
+h1{
+align-self: center;   
+color:#5b645c; 
+text-align:center;
+height: 60px;
+font-size:50px;
+border:#6c8820 5px solid;
+margin:450px;
+}
+
+.pink{
+
+margin:auto;
+box-align:center;
+width:650px;
+height:450px;
+border:3px #6c8820 solid;
+
+}
+
+section{
+background-color: black;
+
+}
+
+.orange{
+
+text-align:center;
+margin:350px;
+color:#5b645c;
+font-family: 'Indie Flower', cursive ;
+}
+
+h2{
+    align-self:center;   
+    color:#5b645c; 
+    text-align:center;
+    height: 60px;
+    font-size:50px;
+    border:#6c8820 5px solid;
+   }
+
+
+.green{
+    text-align:center;
+    color:#5b645c;
+    font-family: 'Dancing Script', cursive;
+}
+
+h3{
+align-self: center;   
+color:#5b645c; 
+text-align:center;
+height: 70px;
+font-size:50px;
+border:#6c8820 5px solid;
+margin:250px;
+}
+
+.black{
+text-align:center;
+color:#5b645c;
+font-family: 'Pacifico', cursive;
+}
+
+.grey{
+    margin:550px;
+    box-align:center;
+    width:450PX;
+    height:450PX;
+    border:3px #6c8820 solid;
+    background-image: url("https://ktavea.dm.files.1drv.com/y4m-jpZ7i6Yo_WNawSPbc9LvFy9cPm0dLslxlImuUFZ3Zp_SZa1V_2t6vaEZwF5DyWRY0aYSbwQz58_zAQuJeuAaVIIuIVRNhXvqI8S-HYC49KLrxYpRYst4TODdH5V_uVzynwAxA--fy4oDKB4llCD5o065BDuZfz9Hq8NeoU8TDinDHkoOEG4u4J9cmefVRq90NEDB0NHvUSANt9xOG6tZw/IMG_20190227_181544.jpg?psid=1l");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.red{
+    margin:550px;
+    box-align:center;
+    width:450PX;
+    height:75%;
+    border:3px #6c8820 solid;
+
+}
